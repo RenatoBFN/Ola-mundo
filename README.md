@@ -1,4 +1,6 @@
 # Olá, mundo!
  Primeiro repositório - teste.
 
- - Sucesso -
+ Sucesso
+
+Adicionado via GitHub (Correção)
